@@ -34,7 +34,7 @@ Each task consists of:
 ### Frontend
 - Built using **React** (Functional components and React Hooks)
 - **Axios** is used for API calls
-- State management via React's built-in hooks
+- State management via Redux, React's built-in hooks
 
 ### Backend
 - **Node.js** with **Express** for the server
