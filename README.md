@@ -115,9 +115,9 @@ This **Task Manager** application is a full-stack project demonstrating effectiv
 For questions or inquiries, feel free to reach out to:  
 **Email**: yashwalke3434@gmail.com
 
-![Screenshot 2025-05-08 103143](https://github.com/user-attachments/assets/f3617dc7-3430-422a-b747-7bd4bd844d93)
-
 ![Screenshot 2025-05-08 103156](https://github.com/user-attachments/assets/dca61c9a-9080-45ec-9f64-bfe985df92dc)
+
+![Screenshot 2025-05-08 103143](https://github.com/user-attachments/assets/f3617dc7-3430-422a-b747-7bd4bd844d93)
 
 ![Screenshot 2025-05-08 103150](https://github.com/user-attachments/assets/53f10aaa-24fc-4ef0-b1aa-ac3b4d060f3e)
 
