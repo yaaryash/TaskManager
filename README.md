@@ -35,7 +35,6 @@ Each task consists of:
 - Built using **React** (Functional components and React Hooks)
 - **Axios** is used for API calls
 - State management via React's built-in hooks
-- Basic CSS styling applied using [insert styling method, e.g., CSS modules, Styled-components, or Tailwind CSS]
 
 ### Backend
 - **Node.js** with **Express** for the server
