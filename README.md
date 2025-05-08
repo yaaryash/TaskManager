@@ -1,4 +1,5 @@
 Task Manager Application
+
 Overview
 The Task Manager is a full-stack application built to help users manage tasks. It features user authentication, CRUD operations for tasks, and filtering by task status. The frontend is built with React, while the backend uses Node.js and MongoDB. Deployed frontend on AWS EC2 and configured Nginx to serve the app and proxy backend API requests.
 Utilized PM2 to ensure 24/7 backend uptime.
